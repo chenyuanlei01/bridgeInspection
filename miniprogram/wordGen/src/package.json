@@ -1,0 +1,15 @@
+{
+  "name": "wordGen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "officegen": "^0.6.4",
+    "wx-server-sdk": "~2.3.3"
+  }
+}

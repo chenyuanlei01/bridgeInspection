@@ -1,0 +1,25 @@
+app: wordGen
+component: scf
+inputs:
+  cls:
+    logsetId: 03e6cb47-6ae1-423d-9534-a3c6eebb2e6c
+    topicId: 36eda3d1-0f6a-4d2d-a02a-24c187542c7a
+  description: ''
+  eip: false
+  enableRoleAuth: true
+  events: []
+  handler: index.main
+  memorySize: 256
+  name: wordGen
+  namespace: qljc-0b2vv
+  publicAccess: true
+  region: ap-shanghai
+  role: TCB_QcsRole
+  runtime: Nodejs10.15
+  src: ./src
+  timeout: 3
+name: ap-shanghai_qljc-0b2vv_wordGen
+org: '1302853683'
+stage: dev
+# When using this configuration file for deployment, make sure the file name is "serverless.yml".
+# For more information: https://github.com/serverless-components/tencent-scf/blob/master/docs/configure.md
