@@ -1,0 +1,72 @@
+{
+  "pages": [
+    "pages/loginUser/loginUser",
+    "pages/gczl/gczl",
+    "pages/xjgc/xjgc",
+    "pages/gcxx/gcxx",
+    "pages/bhjl/bhjl",
+    "pages/qljc/qljc",
+    "pages/history/history",
+    "pages/lscx/lscx",
+    "pages/sbjg/sbjg",
+    "pages/ybzl/ybzl",
+    "pages/qtnr/qtnr",
+    "pages/logs/logs",
+    "pages/record/record",
+    "pages/Qrcode/Qrcode",
+    "pages/search/search",
+    "pages/bridgeMap/bridgeMap",
+    "pages/jbxx/jbxx",
+    "pages/getMap/getMap",
+    "pages/feedBack/feedBack",
+    "pages/navi/navi",
+    "pages/register/register",
+    "pages/xbjg/xbjg",
+    "pages/xbjg_g/xbjg_g",
+    "pages/sbjg_g/sbjg_g",
+    "pages/qtnr_g/qtnr_g",
+    "pages/ProjCenter/ProjCenter",
+    "pages/ImportProject/ImportProject",
+    "pages/ExportProject/ExportProject",
+    "pages/CheckDiease/CheckDiease",
+    "pages/ybzl_g/ybzl_g",
+    "pages/image_qmx/image_qmx",
+    "pages/image_sbjg/image_sbjg",
+    "pages/image_xbjg/image_xbjg",
+    "pages/ImageInspection/ImageInspection"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "桥梁外观检测现场记录",
+    "navigationBarTextStyle": "black"
+  },
+
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "usingComponents": {
+
+  },
+
+    "useExtendedLib": {
+      
+      "weui": true,
+      "kbone": true
+        },
+  
+
+  
+  "plugins": {
+    "routePlan": {
+      "version": "1.0.19",
+      "provider": "wx50b5593e81dd937a"
+    }
+  },
+
+  "style": "v2", 
+  "cloud": true,
+  "sitemapLocation": "sitemap.json"
+}
