@@ -1,0 +1,183 @@
+{
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "db guide",
+          "pathName": "pages/databaseGuide/databaseGuide",
+          "query": ""
+        },
+        {
+          "name": "Test",
+          "pathName": "pages/test/test",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/lscx/lscx",
+          "pathName": "pages/lscx/lscx",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "Record",
+          "pathName": "pages/record/record",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "RecordBuild",
+          "pathName": "pages/record/record",
+          "query": "scene=b00064a7602cb892056b73e616304bb3",
+          "scene": null
+        },
+        {
+          "name": "三环",
+          "pathName": "pages/record/record",
+          "query": "scene=3b020ca3601dfe8302ba5c513358b054",
+          "scene": null
+        },
+        {
+          "name": "Swiper",
+          "pathName": "pages/record/record",
+          "query": "scene=b00064a7602cf9cd0577764c1992c2f7",
+          "scene": null
+        },
+        {
+          "name": "bridgeMap",
+          "pathName": "pages/bridgeMap/bridgeMap",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/qljc/qljc",
+          "pathName": "pages/qljc/qljc",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/qtnr/qtnr",
+          "pathName": "pages/qtnr/qtnr",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/sbjg/sbjg",
+          "pathName": "pages/sbjg/sbjg",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/xbjg/xbjg",
+          "pathName": "pages/xbjg/xbjg",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/ybzl/ybzl",
+          "pathName": "pages/ybzl/ybzl",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/lscx/lscx",
+          "pathName": "pages/lscx/lscx",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/history/history",
+          "pathName": "pages/history/history",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/jbxx/jbxx",
+          "pathName": "pages/jbxx/jbxx",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "getMap",
+          "pathName": "pages/getMap/getMap",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "feedBack",
+          "pathName": "pages/feedBack/feedBack",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "xbjg",
+          "pathName": "pages/xbjg/xbjg",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "Login",
+          "pathName": "pages/login/login",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "qljc",
+          "pathName": "pages/qljc/qljc",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "gcxx",
+          "pathName": "pages/gcxx/gcxx",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "xjgc",
+          "pathName": "pages/xjgc/xjgc",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "bhjl",
+          "pathName": "pages/bhjl/bhjl",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "gcxx",
+          "pathName": "pages/gcxx/gcxx",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "xjgc",
+          "pathName": "pages/xjgc/xjgc",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "gczl",
+          "pathName": "pages/gczl/gczl",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  },
+  "projectname": "bridgeTest",
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "libVersion": "2.24.1"
+}
